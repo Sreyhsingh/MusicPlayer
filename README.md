@@ -40,7 +40,7 @@
 - `API_ID` : Get from [my.telegram.org](https://my.telegram.org/app) or [@UsetTGzKBot](https://telegram.dog/UseTGzKBot)
 - `API_HASH` : Get from [my.telegram.org](https://my.telegram.org/app) or [@UseTGzKBot](https://telegram.dog/UseTGzKBot)
 - `BOT_TOKEN` : Get From [@Botfather](https://telegram.dog/BotFather)
-- `SESSION_STRING` : Generate From here [![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-yellowgreen)](https://replit.com/@ZauteKm/GenerateStringSession)
+- `SESSION_STRING` : Generate From here [![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-yellowgreen)](https://replit.com/sreyhsingh/GenerateStringSession)
 - `CHAT` : ID of Channel/Group where the bot plays Music.
 - `LOG_GROUP` : Group to send Playlist, if CHAT is a Group
 - `ADMINS` : ID of users who can use admin commands.
@@ -90,7 +90,7 @@
 <br/>
 
 ```sh
-git clone https://github.com/ZauteKm/MusicPlayer
+git clone https://github.com/sreyhsingh/MusicPlayer
 cd MusicPlayer
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
